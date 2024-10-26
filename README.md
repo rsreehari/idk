@@ -60,18 +60,37 @@ Retrieve the JSON response and extract the quote text.
 
 3. Display: Dynamically update the HTML to show the new quote each time the button is pressed.
 # Installation
-VS CODE 
+Clone the repository:
+
+git clone https://github.com/JeffreyHSE/KanyeWest-Ye-API.git
+
+
+2. Run the app:
+
+Open index.html in your browser.
 
 # Run
-[commands]
+To run the KanyeWest-Ye-API, follow these commands:
+
+1. Clone the Repository:
+
+git clone https://github.com/JeffreyHSE/KanyeWest-Ye-API.git
+
+
+2. Navigate to the Directory:
+
+cd KanyeWest-Ye-API
+
+
+3. Open the Application: Open the index.html file in your web browser to start using the app.
 
 ### Project Documentation
 For Software: 
-Funny Random Quote Generator
+
 
 Project Documentation
 Version: 1.0
-Prepared by: [Your Hilarious Name Here]
+Prepared by: Team 404
 
 
 ---
@@ -90,9 +109,22 @@ The Funny Random Quote Generator is designed to make you laugh, snicker, giggle,
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+# Diagram
+Workflow Architecture for KanyeWest-Ye-API
+
+1. User Interaction: User clicks a button on the web interface.
+
+
+2. API Request: JavaScript sends a request to the Kanye West quotes API.
+
+
+3. Response Handling: The API returns a random quote.
+
+
+4. Display: The quote is dynamically displayed on the webpage.
+
+
+5. User Experience: The user can repeat the process by clicking the button again for a new quote.
 
 For Hardware:
 
@@ -122,9 +154,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- R SREEHARI: Front-end 
+- Malavika S: Documentation 
+- Abhimanyu S: Resources collection 
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
