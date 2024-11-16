@@ -147,8 +147,8 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1xHS6R7n8dCehVOBdgVvcFvNN53EG8SXZ/view?usp=drivesdk
+Just click generate and you will see some amazing funny quotes to reduce your stress
 
 # Additional Demos
 [Add any extra demo materials/links]
