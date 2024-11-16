@@ -100,9 +100,8 @@ Project Overview
 The Funny Random Quote Generator is designed to make you laugh, snicker, giggle, and occasionally roll your eyes. It’s a highly sophisticated system (of random clicks and algorithms) that generates quotes with zero context and 100% randomness. All you do is press a button, and BOOM! The universe (or at least our algorithm) delivers a little nugget of humor straight to your screen.
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
+https://drive.google.com/file/d/1xIJ7cDz3bnhjrHOkLKzNjszqYzgMt7xl/view?usp=drivesdk
+This shows the interface of our website 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
